@@ -1,0 +1,17 @@
+.SearchBox {
+    text-align: center;
+    
+}
+
+.Button {
+    background-color: #0077B6 !important;
+    color: white !important;
+    border-radius: 6px !important;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2) !important;
+}
+
+.Button:hover {
+    background-color: #023E8A !important;
+    box-shadow: 10px 30px 20px rgba(0, 0, 0, 0.2) !important;
+
+}
