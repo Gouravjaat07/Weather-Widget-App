@@ -58,5 +58,3 @@ export default function SearchBox({updateInfo}) {
         </form>
     );
 }
-
-// a85ac116cd6ce4ef413195515ca9cc92
